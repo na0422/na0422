@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @na0422, a student.
 - 👀 I’m interested in python, cybersecurity and AI.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me: nandinianand0522@gmail.com ...
 
 <!---
