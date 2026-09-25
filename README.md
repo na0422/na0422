@@ -49,15 +49,3 @@
 
 ---
 
-### ✦ Git Telemetry
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,10&height=70&section=footer" width="100%"/>
-</div>
